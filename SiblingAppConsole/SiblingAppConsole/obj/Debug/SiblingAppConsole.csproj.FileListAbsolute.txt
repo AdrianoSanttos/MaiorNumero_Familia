@@ -1,0 +1,12 @@
+c:\users\caio\documents\visual studio 2015\Projects\SiblingAppConsole\SiblingAppConsole\bin\Debug\SiblingAppConsole.exe.config
+c:\users\caio\documents\visual studio 2015\Projects\SiblingAppConsole\SiblingAppConsole\bin\Debug\SiblingAppConsole.exe
+c:\users\caio\documents\visual studio 2015\Projects\SiblingAppConsole\SiblingAppConsole\bin\Debug\SiblingAppConsole.pdb
+c:\users\caio\documents\visual studio 2015\Projects\SiblingAppConsole\SiblingAppConsole\obj\Debug\SiblingAppConsole.csprojResolveAssemblyReference.cache
+c:\users\caio\documents\visual studio 2015\Projects\SiblingAppConsole\SiblingAppConsole\obj\Debug\SiblingAppConsole.exe
+c:\users\caio\documents\visual studio 2015\Projects\SiblingAppConsole\SiblingAppConsole\obj\Debug\SiblingAppConsole.pdb
+D:\Adriano Santos\Downloads\SiblingAppConsole\SiblingAppConsole\SiblingAppConsole\bin\Debug\SiblingAppConsole.exe.config
+D:\Adriano Santos\Downloads\SiblingAppConsole\SiblingAppConsole\SiblingAppConsole\obj\Debug\SiblingAppConsole.exe
+D:\Adriano Santos\Downloads\SiblingAppConsole\SiblingAppConsole\SiblingAppConsole\obj\Debug\SiblingAppConsole.pdb
+D:\Adriano Santos\Downloads\SiblingAppConsole\SiblingAppConsole\SiblingAppConsole\bin\Debug\SiblingAppConsole.exe
+D:\Adriano Santos\Downloads\SiblingAppConsole\SiblingAppConsole\SiblingAppConsole\bin\Debug\SiblingAppConsole.pdb
+D:\Adriano Santos\Downloads\SiblingAppConsole\SiblingAppConsole\SiblingAppConsole\obj\Debug\SiblingAppConsole.csprojResolveAssemblyReference.cache
